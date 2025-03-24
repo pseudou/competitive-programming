@@ -1,6 +1,8 @@
 #include<iostream>
 #include<unordered_set>
 
+// https://leetcode.com/problems/contains-duplicate/description/
+
 using namespace std;
 class Dupes217 {
 public:
