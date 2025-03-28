@@ -2,7 +2,7 @@
 #include <string>
 
 // https://leetcode.com/problems/valid-anagram/
-
+// either sort and check or count chars in one string and substract from the other. if negative then no anagram
 using namespace std;
 class Solution {
 public:

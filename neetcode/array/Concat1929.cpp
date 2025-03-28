@@ -1,9 +1,10 @@
-// https://leetcode.com/problems/concatenation-of-array/
-
 #include <iostream>
 #include <vector>
 
 using namespace std;
+
+// https://leetcode.com/problems/concatenation-of-array/
+// ans: push_back the elements that is being traversed from i =0 to n-1
 
 class Concat1929 {
 public:

@@ -2,6 +2,7 @@
 #include<unordered_set>
 
 // https://leetcode.com/problems/contains-duplicate/description/
+// ans: create a hash set if check if the element exists
 
 using namespace std;
 class Dupes217 {
